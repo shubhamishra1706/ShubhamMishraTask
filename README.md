@@ -1,8 +1,8 @@
-Name-shubham mishra
-Task-weather app
-date-29/06/2023
+Name-shubham mishra,
+Task-weather app,
+date-29/06/2023.
 
-============things i had done for making app=============
+
 In this app, i had made a file data.json , which i am importing in app.js
 in app.js ,i am using bootstrap ,react-bootstrap, bootstrap-icons libraries.
 i am importing Tmr component to show the time in the app.

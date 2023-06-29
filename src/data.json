@@ -1,0 +1,157 @@
+[
+  {
+      "city": "Los Angeles",
+      "temperature": 23,
+      "weatherDescription": "Partly Cloudy",
+      "humidity": 55,
+      "windSpeed": 6,
+      "airQuality": "good",
+      "airQualityDescription": "The air quality is satisfactory, and air pollution poses little or no risk.",
+      "forecast": [
+          {
+              "time": "06:00",
+              "temperature": 22,
+              "weatherDescription": "Partly Cloudy"
+          },
+          {
+              "time": "07:00",
+              "temperature": 23,
+              "weatherDescription": "Partly Cloudy"
+          },
+          {
+              "time": "08:00",
+              "temperature": 24,
+              "weatherDescription": "Partly Cloudy"
+          },
+          {
+              "time": "09:00",
+              "temperature": 25,
+              "weatherDescription": "Partly Cloudy"
+          }
+      ]
+  },
+  {
+      "city": "Berlin",
+      "temperature": 20,
+      "weatherDescription": "Rainy",
+      "humidity": 80,
+      "windSpeed": 10,
+      "airQuality": "poor",
+      "airQualityDescription": "The air quality is generally acceptable for most individuals. However, sensitive groups may experience minor to moderate symptoms from long-term exposure.",
+      "forecast": [
+          {
+              "time": "06:00",
+              "temperature": 19,
+              "weatherDescription": "Cloudy"
+          },
+          {
+              "time": "07:00",
+              "temperature": 19,
+              "weatherDescription": "Cloudy"
+          },
+          {
+              "time": "08:00",
+              "temperature": 18,
+              "weatherDescription": "Rainy"
+          },
+          {
+              "time": "09:00",
+              "temperature": 18,
+              "weatherDescription": "Rainy"
+          }
+      ]
+  },
+  {
+      "city": "Rome",
+      "temperature": 26,
+      "weatherDescription": "Sunny",
+      "humidity": 50,
+      "windSpeed": 8,
+      "airQuality": "good",
+      "airQualityDescription": "The air quality is satisfactory, and air pollution poses little or no risk.",
+      "forecast": [
+          {
+              "time": "06:00",
+              "temperature": 25,
+              "weatherDescription": "Clear Sky"
+          },
+          {
+              "time": "07:00",
+              "temperature": 26,
+              "weatherDescription": "Clear Sky"
+          },
+          {
+              "time": "08:00",
+              "temperature": 27,
+              "weatherDescription": "Sunny"
+          },
+          {
+              "time": "09:00",
+              "temperature": 28,
+              "weatherDescription": "Sunny"
+          }
+      ]
+  },
+  {
+      "city": "Delhi",
+      "temperature": 38,
+      "weatherDescription": "Hot",
+      "humidity": 70,
+      "windSpeed": 5,
+      "airQuality": "poor",
+      "airQualityDescription": "The air quality is generally acceptable for most individuals. However, sensitive groups may experience minor to moderate symptoms from long-term exposure.",
+      "forecast": [
+          {
+              "time": "06:00",
+              "temperature": 36,
+              "weatherDescription": "Sunny"
+          },
+          {
+              "time": "07:00",
+              "temperature": 37,
+              "weatherDescription": "Sunny"
+          },
+          {
+              "time": "08:00",
+              "temperature": 38,
+              "weatherDescription": "Hot"
+          },
+          {
+              "time": "09:00",
+              "temperature": 39,
+              "weatherDescription": "Hot"
+          }
+      ]
+  },
+  {
+      "city": "São Paulo",
+      "temperature": 22,
+      "weatherDescription": "Cloudy",
+      "humidity": 75,
+      "windSpeed": 9,
+      "airQuality": "poor",
+      "airQualityDescription": "The air quality is generally acceptable for most individuals. However, sensitive groups may experience minor to moderate symptoms from long-term exposure.",
+      "forecast": [
+          {
+              "time": "06:00",
+              "temperature": 21,
+              "weatherDescription": "Cloudy"
+          },
+          {
+              "time": "07:00",
+              "temperature": 22,
+              "weatherDescription": "Cloudy"
+          },
+          {
+              "time": "08:00",
+              "temperature": 22,
+              "weatherDescription": "Cloudy"
+          },
+          {
+              "time": "09:00",
+              "temperature": 23,
+              "weatherDescription": "Cloudy"
+          }
+      ]
+  }
+]
